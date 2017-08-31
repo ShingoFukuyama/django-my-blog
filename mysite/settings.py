@@ -25,7 +25,7 @@ SECRET_KEY = '5cqd65za3s3f%tk3_+&u5&c#qruxajr^se13e!o&t^kjk591!0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'shingo.pythonanywhere.com']
 
 
 # Application definition
